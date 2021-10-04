@@ -1,0 +1,25 @@
+{
+  "name": "inst377-group-website",
+  "version": "1.0.0",
+  "description": "INST377 Group 18 Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrycrews1/inst377-group-website.git"
+  },
+  "author": "Jerry Crews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrycrews1/inst377-group-website/issues"
+  },
+  "homepage": "https://github.com/jerrycrews1/inst377-group-website#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
